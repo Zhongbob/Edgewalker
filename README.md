@@ -1,5 +1,5 @@
 ## Introduction
-[Game Title Placeholder] is an API-driven game that challenges players to combine their programming skills and data science knowledge to optimize resource production and allocation. 
+Edgewalker is an API-driven game that challenges players to combine their programming skills and data science knowledge to optimize resource production and allocation. 
 The game operates on API endpoints. The user creates a authorisation token, and uses that token as their “account” key. They can then access different endpoints which perform different actions.
 The game is an MMO where users create and develop programs to navigate dynamic terrain, gather resources, and combat enemies to earn additional resources and gear. Success in the game relies on strategic coding, algorithmic thinking, and efficient resource management as players compete against others in an ever-evolving environment.
 
